@@ -1,5 +1,6 @@
 ---
 permalink: /
+redirect_from: /index.html
 ---
 
 ## about 9033
