@@ -4,11 +4,13 @@ redirect_from: /index.html
 ---
 
 ## about 9033
+my GitHub Page.
 
-hahaha
-[text 1](text/0.md)
+## posts
+2018-08-22 [post 1](text/0.md)  
 
 ## links
-[skyred.cloud](http://skyred.cloud)
-[facebook](https://facebook.com/jk423)
-[twitter](https://twitter.com/jk423)
+[this page github](https://github.com/9033/9033.github.io)  
+[skyred.cloud](http://skyred.cloud)  
+[facebook](https://facebook.com/jk423)  
+[twitter](https://twitter.com/jk423)  
