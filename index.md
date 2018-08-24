@@ -7,6 +7,7 @@ redirect_from: /index.html
 my GitHub Page.
 
 ## posts
+2018-08-24 [ffmpeg in python](text/2018-08-24-001.md)  
 2018-08-22 [post 1](text/0.md)  
 
 ## links
