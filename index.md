@@ -2,7 +2,7 @@
 permalink: /
 redirect_from: /index.html
 ---
-
+<style >body {background-color:lightblue;}</style>
 ## about 9033
 my GitHub Page.
 
