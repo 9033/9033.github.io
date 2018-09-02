@@ -5,9 +5,9 @@ redirect_from: /index.html
 <style >body {background-color:lightblue;}</style>
 ## about 9033
 my GitHub Page.  
-:hamburger::yum:
 
 ## posts
+2018-09-03 [리눅스 서버에 git설정하기](text/2018-09-03-001.md)
 2018-08-24 [ffmpeg in python](text/2018-08-24-001.md)  
 2018-08-22 [post 1](text/0.md)  
 
