@@ -37,6 +37,7 @@ req.conf파일의 예제는 밑에 있다.
     }).listen(443);
     ```
 4. 위에서 만든 rootCA.crt를 신뢰하는 인증서 목록에 추가하고 접속하면 브라우저에 자물쇠 아이콘이 나온다.  
+
 ## 참고
 - check request file.  
   ```bash
