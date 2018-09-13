@@ -4,4 +4,8 @@
 |directory|content|
 |-|-|
 |/index.md|index page|
+|/404.md|404 not found page|
+|/favicon.ico|fav icon|
 |/text/.|posts|
+
+
