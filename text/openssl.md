@@ -57,4 +57,6 @@ req.conf파일의 예제는 밑에 있다.
   DNS.2 = skyred.cloud
   ```
 - 위키에 SAN에 대한 페이지  
-[SAN](https://en.wikipedia.org/wiki/Subject_Alternative_Name)
+[SAN](https://en.wikipedia.org/wiki/Subject_Alternative_Name)  
+- 로컬호스트용 인증서  
+[Certificates for localhost](https://letsencrypt.org/docs/certificates-for-localhost)  

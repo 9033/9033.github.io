@@ -1,3 +1,7 @@
+---
+title: ajax
+---
+<style >body {background-color:lightblue;}</style>
 # ajax
 * XMLHttpRequest
     ```js
