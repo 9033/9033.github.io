@@ -22,3 +22,18 @@ title: express modules
 
 - [express-limiter](https://www.npmjs.com/package/express-limiter)\
     each ip, each user.
+
+- my delay middleware
+    ```js
+    // javascript, node.js, express
+    const busloc_ipaddr=new Set();
+    const buslocdelay=(req,res,next)=>{
+        if(!busloc_ipaddr.has(req.ip)){
+            busloc_ipaddr.add(req.ip);
+            setTimeout((ip)=>{
+                next();
+                busloc_ipaddr.delete(ip);
+            },500, req.ip);
+        }
+    };
+    ```
