@@ -14,6 +14,7 @@ visual studio code에서 구름 모양이 나오면 안된다. 구름 눌렀다�
 `git init`  
 `git remote add remotegit https://.../your_repo.git`  
 `git pull remotegit`  
+`git checkout master`  
 
 ## 다른 컴퓨터에서 사용하기 직전
 remote git에 있는 갱신된 데이터를 가지고 옴.  
