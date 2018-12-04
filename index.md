@@ -7,6 +7,8 @@ redirect_from: /index.html
 주로 프로그래밍 쪽으로 포스팅하는 블로그 입니다.  
 
 # posts
+2018-12-04 [정보보호 R&D 데이터 챌린지 2018 차량주행 데이터기반 도난탐지 본선 참가 후기](text/2018-12-02-001.md)  
+2018-11-27 [브루클린더버거조인트 햄버거 먹음](text/brooklyntheburgerjoint.md)  
 2018-11-04 [git으로 로컬 repo를 서버에 올리고 다른 컴퓨터에서 사용하기](text/remotegit.md)  
 2018-09-28 [xml to json (python)](text/xml2json.md)  
 2018-09-13 [openssl로 https서버용 인증서 만들기](text/openssl.md)  
