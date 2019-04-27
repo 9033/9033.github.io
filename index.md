@@ -7,6 +7,7 @@ redirect_from: /index.html
 주로 프로그래밍 쪽으로 포스팅하는 블로그 입니다.  
 
 # posts
+2019-04-27 [자바스크립트에서 프로미스, 동기함수의 사용. (promise, async, await)](text/js_sync_function.md)
 2019-02-13 [윈도우 10에서 시스템 종료를 해서 컴퓨터가 꺼젔는데 다시 켜지는 증상 해결.](text/2019-02-13-001.md)  
 2018-12-04 [정보보호 R&D 데이터 챌린지 2018 차량주행 데이터기반 도난탐지 본선 참가 후기](text/2018-12-02-001.md)  
 2018-11-27 [브루클린더버거조인트 햄버거 먹음](text/brooklyntheburgerjoint.md)  
