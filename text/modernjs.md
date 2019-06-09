@@ -55,8 +55,9 @@ while(!0){
 # for/of
 for/in과 비교해보면 값을 바로 조회가능.  
 ```js
-let l=[1,2,3];
-for(let v of l)console.log(v);
+let object=[1,2,3];
+for(let value of object)console.log(value);
+for(let index in object)console.log(object[index]);
 ```
 
 # generator
