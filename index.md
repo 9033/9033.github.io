@@ -7,6 +7,7 @@ redirect_from: /index.html
 주로 프로그래밍 쪽으로 포스팅하는 블로그 입니다.  
 
 # posts
+2019-08-08 [파이선으로 구하는 피보나치 (피보나치를 보다보면 알고리즘책 절반이 끝난다)](text/fibonacci.md)  
 2019-05-10 [(AWS) API Gateway에서 리전 사용자 지정 도메인 이름 설정](text/2019-05-10-001.md)  
 2019-04-27 [자바스크립트에서 프로미스, 동기함수의 사용. (promise, async, await)](text/js_sync_function.md)  
 2019-02-13 [윈도우 10에서 시스템 종료를 해서 컴퓨터가 꺼젔는데 다시 켜지는 증상 해결.](text/2019-02-13-001.md)  
@@ -20,10 +21,13 @@ redirect_from: /index.html
 2018-08-22 [post 1](text/0.md)  
 
 # links
-[this page github](https://github.com/9033/9033.github.io)  
-[skyred.cloud](http://skyred.cloud)  
+#### [this page github](https://github.com/9033/9033.github.io)  
+#### [skyred.cloud](http://skyred.cloud)  
+## programming
+#### [hackerrank](https://www.hackerrank.com/kkangnet)  
+#### [uva online judge](https://uhunt.onlinejudge.org/id/82804)  
 ## sns
-[Facebook](https://facebook.com/jk423)  
-[Twitter](https://twitter.com/jk423)  
-[LinkedIn](https://www.linkedin.com/in/jk423)  
-[Instagram](https://www.instagram.com/0___0__0_0__0)  
+#### [Facebook](https://facebook.com/jk423)  
+#### [Twitter](https://twitter.com/jk423)  
+#### [LinkedIn](https://www.linkedin.com/in/jk423)  
+#### [Instagram](https://www.instagram.com/0___0__0_0__0)  
