@@ -22,7 +22,7 @@ def fibrec(n):
 ### 동적계획법
 ```py
 #top-down dynamic programing
-#memorization
+#memoization
 #위에서 반복 계산되는 부분을 저장한후 활용
 memfib={}
 def fibdown(n):
@@ -147,7 +147,7 @@ def fibmat(n):
 |2|1|
 
 가된다.  
-처음에 `aa`의 1승이기 때문에 fib(1)은 이미 돌아감. 그래서 n-1번 반복해 곱하면 다음과 같은 값이 행렬에 들어가 있게 된다.  
+처음에 `aa`의 1승이기 때문에 fib(1)은 이미 들어가있다. 그래서 n-1번 반복해 곱하면 다음과 같은 값이 행렬에 들어가 있게 된다.  
 
 |fib(n+1)|fib(n)|
 |-|-|
