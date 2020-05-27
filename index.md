@@ -7,6 +7,7 @@ redirect_from: /index.html
 주로 프로그래밍 쪽으로 포스팅하는 블로그 입니다.  
 
 # posts
+2020-05-27 [Promise in custom express-validator](text/express-validator.md)  
 2019-08-08 [파이선으로 구하는 피보나치 (피보나치를 보다보면 알고리즘책 절반이 끝난다)](text/fibonacci.md)  
 2019-05-10 [(AWS) API Gateway에서 리전 사용자 지정 도메인 이름 설정](text/2019-05-10-001.md)  
 2019-04-27 [자바스크립트에서 프로미스, 동기함수의 사용. (promise, async, await)](text/js_sync_function.md)  
