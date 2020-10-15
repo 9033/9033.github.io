@@ -25,15 +25,14 @@ const options = {
 };
 // function
 const func = (req, able_options) => {
-  if( Array.isarray(able_options) && req.query.option && able_options.includes(req.query.option) ){
+  if( !Array.isArray(able_options) || (req.query.option && able_options.includes(req.query.option)) ){
     return options[req.query.option]
   }
   return false
 }
 // currying function
 const curry_func = (able_options) =>{
-  // able_options.every(option=>!!options[option])
-  if( Array.isarray(able_options) && able_options.every(option=>Object.keys(options).includes(option)) ){
+  if( !Array.isArray(able_options) || !able_options.every(option=>Object.keys(options).includes(option)) ){
     throw Error('error')
   }
   return (req) => {
@@ -46,13 +45,16 @@ const curry_func = (able_options) =>{
 // a express router
 router.get('/value',
 async (req, res, next)=>{
-  const ret = func(req, ['SR','SSR'])
+  const ret = func(req, ['R','SSR'])
+  console.log(ret);
   res.end()
-}
+});
 // another express router
+const fn = curry_func(['R','SSR']) // run at starting server
 router.get('/value2',
 async (req, res, next)=>{
-  const ret = func(['SR','SSR'])(req)
+  const ret = fn(req)
+  console.log(ret);
   res.end()
-}
+});
 ```
