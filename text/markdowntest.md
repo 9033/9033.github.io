@@ -23,3 +23,4 @@ getimgs=(doc)=>{
 };
 document.querySelector('html').innerHTML=getimgs(document).map(s=>s.outerHTML).join('');
 ```
+<script src="https://gist.github.com/9033/40524bc5a2680acdae0742e65ad067be.js"></script>
