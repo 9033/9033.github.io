@@ -5,3 +5,50 @@ body {
 a {
   color: #A5C9CA;
 }
+/* 코드 */
+.highlight {
+  background-color: black;
+}
+.markdown-body .highlight pre, .markdown-body pre {
+  background-color: black;
+}
+.highlight .k, .highlight .kv {
+  color: violet;
+}
+.highlight .ow {
+  color: violet;
+}
+.highlight .o {
+  color: aqua;
+}
+.highlight .kd {
+  color: navajowhite;
+}
+.highlight .kc {
+  color: bisque;
+}
+.highlight .nb {
+  color: yellow;
+}
+.highlight .mi {
+  color: yellow;
+}
+.highlight .nt {
+  color: aquamarine;
+}
+.highlight .kn {
+  color: aquamarine;
+}
+.highlight .nn {
+  color: cornflowerblue;
+}
+.highlight .na {
+  color: darkturquoise;
+}
+/* 테이블 */
+.markdown-body table tr {
+  background-color: darkslategray;
+}
+.markdown-body table tr:nth-child(2n) {
+  background-color: darkolivegreen;
+}
