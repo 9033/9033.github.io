@@ -1,7 +1,8 @@
 ---
 title: js_sync_function
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # 자바스크립트에서 프로미스, 동기함수의 사용.
 ok변수의 값을 변경해서 어느 부분이 실행이 되는지 볼수 있다. true일 경우에는 resolve부분이, false일 경우에는 reject부분이 실행된다.  
 프로미스와 프로미스 함수의 차이. `async, await`를 사용할때는 프로미스 함수를 사용해야 한다.  

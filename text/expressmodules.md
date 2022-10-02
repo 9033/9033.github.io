@@ -1,7 +1,8 @@
 ---
 title: express modules
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # 사용량 제한
 - [express-rate-limit](https://www.npmjs.com/package/express-rate-limit) : each ip, limit scope are below.\
     all requests

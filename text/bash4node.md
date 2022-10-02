@@ -1,7 +1,8 @@
 ---
 title: node start
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # bash 4 run node
 ```bash
 #!/bin/sh

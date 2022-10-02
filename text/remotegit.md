@@ -1,7 +1,8 @@
 ---
 title: git으로 로컬 repo를 서버에 올리고 다른 컴퓨터에서 사용하기
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # remote git 명령어  
 visual studio code에서 구름 모양이 나오면 안된다. 구름 눌렀다가 수정한거 다 날라간적 있음. 옆에 branch를 다시 확인해서 checkout해야됨.  
 밑에 예제에서 브랜치 명인 'remotegit'은 임의로 설정가능.  

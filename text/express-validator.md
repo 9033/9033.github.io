@@ -1,7 +1,7 @@
 ---
 title: express-validator
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
 
 # express-validator 활용.
 ## custom validator

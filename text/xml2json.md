@@ -1,7 +1,8 @@
 ---
 title: xml to json
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # xml to json
 xml을 json으로 변환한다.  
 ```py

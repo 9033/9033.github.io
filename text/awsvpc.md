@@ -1,7 +1,8 @@
 ---
 title: AWS VPC
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # Amazon Virtual Private Cloud
 집에서 쓰는 공유기는 내부 포트와 내부 IP주소를 외부 포트와 IP주소로 변환한다. 이것이 NAT(네트워크 주소 변환)이다. 이 개념만 가지고 있으니 AWS(아마존 웹 서비스)에서 제공하는 VPC(Virtual Private Cloud)의 구조가 파악이 되지 않았다. 그래서 도움말을 읽어보면서 정리를 해보았다.  
 
