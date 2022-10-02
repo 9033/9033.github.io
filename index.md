@@ -2,7 +2,8 @@
 permalink: /
 redirect_from: /index.html
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # about 9033
 주로 프로그래밍 쪽으로 포스팅하는 블로그 입니다.  
 

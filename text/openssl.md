@@ -1,7 +1,8 @@
 ---
 title: openssl
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # openssl로 https서버용 인증서 만들기
 https서버의 인증서에 Subject Alternative Name(SAN)에 도메인을 추가해야 브라우저에서 경고가 뜨지 않는다.  
 아래와 같은 방법으로 SAN을 포함한 인증서를 발행 하면 된다.

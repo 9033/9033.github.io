@@ -1,7 +1,8 @@
 ---
 title: ajax
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # ajax
 * XMLHttpRequest
     ```js

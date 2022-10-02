@@ -1,7 +1,7 @@
 ---
 title: fibonacci in python
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
 
 # 피보나치 숫자
 ## 피보나치를 보다보면 알고리즘책 절반이 끝난다.

@@ -1,7 +1,8 @@
 ---
 title: javascript replace
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # javascript replace  
 1. replace  
     ```js

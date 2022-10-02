@@ -1,7 +1,8 @@
 ---
 title: javascript
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # javascript
 
 func1, func2, func3, func4는 같은 역할을 가진 함수.  

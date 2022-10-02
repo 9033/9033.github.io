@@ -1,7 +1,8 @@
 ---
 title: database
 ---
-<style >body {background-color:lightblue;}</style>
+<link rel="stylesheet" href="/global.css">
+
 # DB
 ## MySQL
 테이블을 만들때 컬럼을 정함. 그리고 컬럼에 들어갈 데이터 타입도 정해짐.  
