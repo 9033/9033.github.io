@@ -38,3 +38,5 @@ redirect_from: /index.html
 #### [Twitter](https://twitter.com/jk423)  
 #### [LinkedIn](https://www.linkedin.com/in/jk423)  
 #### [Instagram](https://www.instagram.com/0___0__0_0__0)  
+## blog
+#### [네이버](https://blog.naver.com/0___0__0_0__0)  
