@@ -1,0 +1,11 @@
+services:
+  jekyll:
+    image: jekyll/jekyll
+    container_name: jekyll_serve
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll:Z
+    command: jekyll serve
+    working_dir: /srv/jekyll
+    user: root
