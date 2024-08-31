@@ -8,6 +8,7 @@ redirect_from: /index.html
 주로 프로그래밍 쪽으로 포스팅하는 블로그 입니다.  
 
 # posts
+2024-09-01 [도커로 github page를 로컬에서 보기](text/jekyll_serve.md)  
 2022-11-08 [에러 페이지 응답하기 (AWS)](text/response_error-page.md)  
 2020-10-20 [express 커링 함수 활용](text/js-currying-func.md)  
 2020-09-13 [http 서버에서 ERR_SSL_PROTOCOL_ERROR](text/ERR_SSL_PROTOCOL_ERROR_1.md)  
